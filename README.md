@@ -43,20 +43,3 @@ Just tell me 👍
 
 
 
-
-Contents
-Learning Pathway Modules
-
-Module 0 - Before You Start
-Module 1 - The Math Behind It All
-Module 2 - Building Your Foundation
-Module 3 - Data Science
-Module 4 - Machine Learning
-Module 5 - Computer Vision
-Module 6 - Deep Learning Neural Network
-Module 7 - Generative AI
-Sub-Module 7A - Retrieval Augmented Generation (RAG)
-Module 8 - Natural Language Processing
-Module 9 - Reinforcement Learning
-Module 10 - Agentic AI
-Bonus Module - Advanced Learning Pathway Courses
