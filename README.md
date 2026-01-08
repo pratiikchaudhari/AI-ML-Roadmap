@@ -46,9 +46,7 @@ Here’s a **clean, professional GitHub README–ready version** of **Module 1: 
 
 ---
 
-## 📘 Module 1: 
-
-Linear Algebra
+## 📘 Module 1: Linear Algebra
 
 Linear Algebra forms the mathematical backbone of Machine Learning and Artificial Intelligence. This module focuses on the core concepts required to understand data representation, model behavior, and optimization techniques used in modern ML algorithms.
 
