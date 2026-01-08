@@ -42,4 +42,22 @@ To serve as a **single source of truth** for mastering AI and its subfields—re
 Just tell me 👍
 
 
+##Module 1
+
+* Linear Algebra
+
+1. **Vector Spaces and Subspaces**: Understanding the structure and properties of vector spaces, which is fundamental for feature representation.
+
+2. **Orthogonality and Orthonormality**: Concepts that are crucial for algorithms like Principal Component Analysis (PCA) and for ensuring numerical stability.
+
+3. **Determinants**: Useful for understanding matrix invertibility and volume scaling in transformations.
+
+4. **Change of Basis**: Transforming coordinates from one basis to another, which is important in various ML algorithms.
+
+5. **Projection and Least Squares**: Techniques for projecting data onto subspaces, which are key for regression and dimensionality reduction.
+
+6. **QR Decomposition**: Another matrix factorization method that’s useful for solving linear systems and in some ML algorithms.
+
+
+
 
