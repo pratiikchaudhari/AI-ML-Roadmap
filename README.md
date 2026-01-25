@@ -68,53 +68,34 @@ Linear Algebra forms the mathematical backbone of Machine Learning and Artificia
 
 ---
 
-Calculus for AI / ML
+### 📐 **Calculus for AI & Machine Learning**
 
-Functions & Graphs
+* Functions and Graphs
+* Limits and Continuity
+* Derivatives
+* Partial Derivatives
+* Chain Rule
+* Gradients
+* Directional Derivatives
+* Jacobian Matrix
+* Hessian Matrix
+* Critical Points
+* Local and Global Minima / Maxima
+* Saddle Points
+* Convexity and Concavity
+* Taylor Series
+* Integrals
+* Multivariable Integrals
+* Change of Variables (Jacobian)
+* Expectation
+* Variance and Covariance
+* Probability Density Functions (PDFs)
+* Backpropagation (Mathematical Perspective)
+* Gradient Descent and Its Variants
+* Differential Equations
 
-Limits & Continuity
 
-Derivatives
 
-Partial Derivatives
-
-Chain Rule
-
-Gradients
-
-Directional Derivatives
-
-Jacobian Matrix
-
-Hessian Matrix
-
-Critical Points
-
-Local & Global Minima / Maxima
-
-Saddle Points
-
-Convexity & Concavity
-
-Taylor Series
-
-Integrals
-
-Multivariable Integrals
-
-Change of Variables (Jacobian)
-
-Expectation
-
-Variance & Covariance
-
-Probability Density Functions (PDFs)
-
-Backpropagation (Mathematical View)
-
-Gradient Descent & Variants
-
-Differential Equations
 
 
 
