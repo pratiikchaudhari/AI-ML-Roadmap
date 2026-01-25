@@ -42,11 +42,11 @@ To serve as a **single source of truth** for mastering AI and its subfields—re
 Just tell me 👍
 
 
-## 📘 Module 1: Linear Algebra
+## 📘 Module 1: Maths
 
 Linear Algebra forms the mathematical backbone of Machine Learning and Artificial Intelligence. This module focuses on the core concepts required to understand data representation, model behavior, and optimization techniques used in modern ML algorithms.
 
-### 🔹 Topics Covered
+### 🔹 Linear Algebra
 
 * **Vector Spaces & Subspaces**
   Understand the structure, properties, and significance of vector spaces. These concepts are fundamental for feature representation and high-dimensional data modeling.
@@ -68,7 +68,53 @@ Linear Algebra forms the mathematical backbone of Machine Learning and Artificia
 
 ---
 
+Calculus for AI / ML
 
+Functions & Graphs
+
+Limits & Continuity
+
+Derivatives
+
+Partial Derivatives
+
+Chain Rule
+
+Gradients
+
+Directional Derivatives
+
+Jacobian Matrix
+
+Hessian Matrix
+
+Critical Points
+
+Local & Global Minima / Maxima
+
+Saddle Points
+
+Convexity & Concavity
+
+Taylor Series
+
+Integrals
+
+Multivariable Integrals
+
+Change of Variables (Jacobian)
+
+Expectation
+
+Variance & Covariance
+
+Probability Density Functions (PDFs)
+
+Backpropagation (Mathematical View)
+
+Gradient Descent & Variants
+
+Differential Equations
 
 
 
